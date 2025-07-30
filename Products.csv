@@ -1,0 +1,9 @@
+product_id,category,sub_category,product_name,profit
+101,Furniture,Chairs,"Ergonomic Chair",150.00
+102,Furniture,Tables,"Office Table",200.00
+103,Technology,Phones,"iPhone 13",300.00
+104,"Office Supplies",Binders,"Ring Binder",20.00
+105,Technology,Accessories,"Wireless Mouse",50.00
+106,"Office Supplies",Paper,"A4 Paper",10.00
+107,Technology,Laptops,"Dell Inspiron",250.00
+108,Furniture,Bookcases,"Wooden Bookcase",120.00
